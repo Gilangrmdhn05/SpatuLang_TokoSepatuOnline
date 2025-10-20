@@ -13,7 +13,7 @@
 <img width="1336" height="683" alt="image" src="https://github.com/user-attachments/assets/e9aa1740-4fe9-4b9a-be5d-89afb6929921" />
 
 ##  Kategori Sepatu Olahraga
-<img width="1327" height="675" alt="image" src="https://github.com/user-attachments/assets/93bdd313-3cf3-4e3e-bbd6-d31551d2af24" />
+<img width="1327" height="675" alt="image" src="https://github.com/user-attachments/assets/93bdd313-3cf3-4e3e-bbd6-d31551d2af24" /> 
 
 
 
